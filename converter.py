@@ -1,0 +1,1 @@
+# ana dosya, terminalden komut alır, - argparse-
