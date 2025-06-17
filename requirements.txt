@@ -1,0 +1,2 @@
+requests>=2.31.0
+sentence-transformers>=4.1.0 

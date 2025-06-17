@@ -1,0 +1,37 @@
+[
+    {
+        "sentence": "100 metre kaç kilometre eder",
+        "type": "length",
+        "from_unit": "metre",
+        "to_unit": "kilometre",
+        "value": 100
+    },
+    {
+        "sentence": "1 kilogram kaç gram eder",
+        "type": "weight",
+        "from_unit": "kilogram",
+        "to_unit": "gram",
+        "value": 1
+    },
+    {
+        "sentence": "0 santigrat kaç fahrenheit eder",
+        "type": "temperature",
+        "from_unit": "celsius",
+        "to_unit": "fahrenheit",
+        "value": 0
+    },
+    {
+        "sentence": "1000 metre kaç kilometre yapar",
+        "type": "length",
+        "from_unit": "metre",
+        "to_unit": "kilometre",
+        "value": 1000
+    },
+    {
+        "sentence": "2 kilogram kaç gram yapar",
+        "type": "weight",
+        "from_unit": "kilogram",
+        "to_unit": "gram",
+        "value": 2
+    }
+] 
